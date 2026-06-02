@@ -118,6 +118,6 @@ function throttle(){
         console.log("Blocked❌");
     }
 }
-
+ 
 throttle();
 throttle();
